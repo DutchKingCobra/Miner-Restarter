@@ -1,0 +1,4 @@
+C:\Users\dutch\source\repos\MinerRestarter\MinerRestarter\obj\Release\netcoreapp1.0\MinerRestarter.vbprojAssemblyReference.cache
+C:\Users\dutch\source\repos\MinerRestarter\MinerRestarter\obj\Release\netcoreapp1.0\MinerRestarter.AssemblyInfoInputs.cache
+C:\Users\dutch\source\repos\MinerRestarter\MinerRestarter\obj\Release\netcoreapp1.0\MinerRestarter.AssemblyInfo.vb
+C:\Users\dutch\source\repos\MinerRestarter\MinerRestarter\obj\Release\netcoreapp1.0\MinerRestarter.vbproj.CoreCompileInputs.cache

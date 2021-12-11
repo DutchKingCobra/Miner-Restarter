@@ -1,0 +1,12 @@
+C:\Users\dutch\source\repos\MinerRestarter\MinerRestarter\bin\Release\netcoreapp3.1\win10-x64\MinerRestarter.exe
+C:\Users\dutch\source\repos\MinerRestarter\MinerRestarter\bin\Release\netcoreapp3.1\win10-x64\MinerRestarter.deps.json
+C:\Users\dutch\source\repos\MinerRestarter\MinerRestarter\bin\Release\netcoreapp3.1\win10-x64\MinerRestarter.runtimeconfig.json
+C:\Users\dutch\source\repos\MinerRestarter\MinerRestarter\bin\Release\netcoreapp3.1\win10-x64\MinerRestarter.runtimeconfig.dev.json
+C:\Users\dutch\source\repos\MinerRestarter\MinerRestarter\bin\Release\netcoreapp3.1\win10-x64\MinerRestarter.dll
+C:\Users\dutch\source\repos\MinerRestarter\MinerRestarter\bin\Release\netcoreapp3.1\win10-x64\MinerRestarter.pdb
+C:\Users\dutch\source\repos\MinerRestarter\MinerRestarter\obj\Release\netcoreapp3.1\win10-x64\MinerRestarter.AssemblyInfoInputs.cache
+C:\Users\dutch\source\repos\MinerRestarter\MinerRestarter\obj\Release\netcoreapp3.1\win10-x64\MinerRestarter.AssemblyInfo.vb
+C:\Users\dutch\source\repos\MinerRestarter\MinerRestarter\obj\Release\netcoreapp3.1\win10-x64\MinerRestarter.vbproj.CoreCompileInputs.cache
+C:\Users\dutch\source\repos\MinerRestarter\MinerRestarter\obj\Release\netcoreapp3.1\win10-x64\MinerRestarter.dll
+C:\Users\dutch\source\repos\MinerRestarter\MinerRestarter\obj\Release\netcoreapp3.1\win10-x64\MinerRestarter.pdb
+C:\Users\dutch\source\repos\MinerRestarter\MinerRestarter\obj\Release\netcoreapp3.1\win10-x64\MinerRestarter.genruntimeconfig.cache

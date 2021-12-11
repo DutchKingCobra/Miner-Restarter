@@ -1,0 +1,2 @@
+C:\Users\dutch\source\repos\MinerRestarter\MinerRestarter\bin\Release\netcoreapp3.1\publish\MinerRestarter.pdb
+C:\Users\dutch\source\repos\MinerRestarter\MinerRestarter\bin\Release\netcoreapp3.1\publish\MinerRestarter.exe
