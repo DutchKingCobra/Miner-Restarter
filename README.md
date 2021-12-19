@@ -1,3 +1,4 @@
+```
 # Miner-Restarter
 Restart your miner at intervals, Configurable for all miners like Phoenix / trex / nbminer etc etc
 config is generated after first start.
@@ -16,3 +17,4 @@ SHIB: 0xC3cC2cC679492A78987B635eA6Ed574786Dd7B5b
 ETH : 0xB4636abA7e7B5Fbfc55836687DFa01c654953Ad7
 RVN : REgqA7YDskPaadAXcjpDj1cGkFo5HeQUmo
 Cheers DutchKingCobra
+```
